@@ -1,0 +1,7 @@
+.venv/
+.vscode/
+__pycache__/config.cpython-39.pyc
+__pycache__/constant.cpython-39.pyc
+__pycache__/custom_form.cpython-39.pyc
+__pycache__/DB_process.cpython-39.pyc
+__pycache__/db_process.cpython-39.pyc
