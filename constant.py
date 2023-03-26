@@ -1,0 +1,4 @@
+X="X"
+Y="Y"
+LOTID="LOTID"
+DIEID="DIEID"
